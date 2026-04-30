@@ -3,8 +3,6 @@
 [![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/muhammadgamaleid/humanizer-pro)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tokens](https://img.shields.io/badge/tokens-~800--900-blue)](#comparison)
-[![One Pass](https://img.shields.io/badge/pass-1-green)](#key-features)
-[![Output](https://img.shields.io/badge/output-final--only-black)](#key-features)
 [![Tested on](https://img.shields.io/badge/tested%20on-Claude%20%7C%20Gemini%20%7C%20Kimi%20%7C%20MiniMax-purple)](#compatibility)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-supported-informational)](#integrations)
 
